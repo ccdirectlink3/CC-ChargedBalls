@@ -1,8 +1,0 @@
-{
-    "name": "charged-balls",
-    "version": "1.0.1",
-    "ccmodHumanName": "Charged balls",
-    "description": "Replaces normal VRPs with charged VRPs",
-    "module": true,
-    "prestart": "prestart.js"
-}

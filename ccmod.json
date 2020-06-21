@@ -1,0 +1,7 @@
+{
+  "id": "charged-balls",
+  "version": "2.0.0",
+  "title": "Charged balls",
+  "description": "Replaces normal VRPs with charged VRPs",
+  "prestart": "prestart.js"
+}
